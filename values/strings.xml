@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Myshowroom</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_home_second">Hello HomeSecondFragment. Arg: %1$s</string>
+    <string name="hello_gallery_second">Hello HomeSecondFragment. Arg: %1$s</string>
+    <string name="hello_slideshow_second">Hello HomeSecondFragment. Arg: %1$s</string>
+    <string name="my_orders">My Orders</string>
+    <string name="my_rewards">My Rewards</string>
+    <string name="my_wishlist">My Wishlist</string>
+    <string name="my_account">My Account</string>
+    <string name="my_cart">My Cart</string>
+    <string name="deals_of_the_day">Deals of the day</string>
+    <string name="view_all">View all</string>
+    <string name="yout_saved_rs_5999_on_this_order">yout saved RS.5999/- on this order</string>
+    <string name="todo">TODO</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="rs_49999">Rs.49999/-</string>
+    <string name="free_delivery">Free Delivery</string>
+
+    <string name="delivery">Delivery</string>
+    <string name="price_details">Price Details</string>
+    <string name="price_2_items">Price (2 items)</string>
+
+</resources>
